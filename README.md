@@ -10,7 +10,7 @@ Welcome to the **Striver A2Z DSA Journey** repository! This project is dedicated
 - License
 
 ## Introduction
-This repository contains solutions to the A2Z DSA sheet by Striver, implemented in C++. The sheet covers a wide range of topics, including arrays, strings, linked lists, trees, graphs, and more.
+This repository contains solutions to the A2Z DSA sheet by Striver, implemented in C++. The sheet covers a wide range of topics, including arrays, strings, linked lists, trees, graphs, and more. **The link to the sheet is provided in the description.**
 
 ## Getting Started
 To get started with this repository, follow these steps:
